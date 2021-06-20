@@ -1,5 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "这是个啥"
+    url: /zsgs/
+- title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
